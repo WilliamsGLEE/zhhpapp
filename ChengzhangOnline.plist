@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cc.hopechina.ChengzhanOnline</string>
+				<string>cc.hopechina.UpeduBar</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>ChengzhanOnline</string>
+				<string>UpeduBar</string>
 				<key>title</key>
-				<string>ChengzhanOnline</string>
+				<string>UpeduBar</string>
 			</dict>
 		</dict>
 	</array>
